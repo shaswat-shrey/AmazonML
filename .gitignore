@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Trained model / model artifacts
+s_bert_entity_matching/
+
+# Large datasets
+*.csv
+*.tsv
+*.parquet
+*.json
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
